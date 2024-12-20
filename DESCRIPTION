@@ -1,0 +1,8 @@
+Package: dbcv
+Title: Density Based Clustering Validation in R
+Version: 0.1.0
+Authors@R: person("Simone", "Minisi", email = "simone.minisi@gmail.com", role = c("aut", "cre"))
+Description: Implements Density Based Clustering Validation (DBCV) index for evaluating clustering quality. Based on https://github.com/christopherjenness/DBCV .
+License: MIT
+Encoding: UTF-8
+Imports: stats, igraph
